@@ -1,0 +1,6 @@
+Count nodes of linked list
+https://www.geeksforgeeks.org/find-length-of-a-linked-list-iterative-and-recursive/
+
+
+Delete Alternate Nodes
+https://www.geeksforgeeks.org/delete-alternate-nodes-of-a-linked-list/
